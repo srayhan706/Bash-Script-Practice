@@ -1,0 +1,3 @@
+101, John, CSE
+102, Alice, EEE
+103, Bob, ME
