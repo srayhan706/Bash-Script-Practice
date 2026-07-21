@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+
+    <person id="P001">
+        <name>
+            <firstName>John</firstName>
+            <lastName>Doe</lastName>
+        </name>
+
+        <contact>
+            <email>john.doe@example.com</email>
+            <phone type="mobile">+1-555-123-4567</phone>
+        </contact>
+
+        <address>
+            <street>123 Main Street</street>
+            <city>New York</city>
+            <state>NY</state>
+            <postalCode>10001</postalCode>
+            <country>USA</country>
+        </address>
+
+        <employment>
+            <company>Acme Corp</company>
+            <title>Software Engineer</title>
+            <startDate>2021-05-10</startDate>
+        </employment>
+    </person>
+
+    <person id="P002">
+        <name>
+            <firstName>Jane</firstName>
+            <lastName>Smith</lastName>
+        </name>
+
+        <contact>
+            <email>jane.smith@example.com</email>
+            <phone type="home">+1-555-987-6543</phone>
+        </contact>
+
+        <address>
+            <street>456 Oak Avenue</street>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <postalCode>90001</postalCode>
+            <country>USA</country>
+        </address>
+
+        <employment>
+            <company>Google</company>
+            <title>Data Scientist</title>
+            <startDate>2022-03-15</startDate>
+        </employment>
+    </person>
+
+    <person id="P003">
+        <name>
+            <firstName>Michael</firstName>
+            <lastName>Johnson</lastName>
+        </name>
+
+        <contact>
+            <email>michael.johnson@example.com</email>
+            <phone type="work">+1-555-555-7890</phone>
+        </contact>
+
+        <address>
+            <street>789 Pine Road</street>
+            <city>Chicago</city>
+            <state>IL</state>
+            <postalCode>60601</postalCode>
+            <country>USA</country>
+        </address>
+
+        <employment>
+            <company>Microsoft</company>
+            <title>Cloud Architect</title>
+            <startDate>2020-11-20</startDate>
+        </employment>
+    </person>
+
+</people>

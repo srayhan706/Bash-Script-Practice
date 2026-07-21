@@ -1,0 +1,15 @@
+200|John|Doe
+300|john.doe@example.com|+1-555-123-4567
+400|123 Main Street|New York|NY|10001|USA
+500|Acme Corp|Software Engineer|2021-05-10
+
+200|Jane|Smith
+300|jane.smith@example.com|+1-555-987-6543
+400|456 Oak Avenue|Los Angeles|CA|90001|USA
+500|Google|Data Scientist|2022-03-15
+
+200|Michael|Johnson
+300|michael.johnson@example.com|+1-555-555-7890
+400|789 Pine Road|Chicago|IL|60601|USA
+500|Microsoft|Cloud Architect|2020-11-20
+
