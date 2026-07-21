@@ -1,0 +1,9 @@
+John,25
+Alice,30
+Bob,22
+David,35
+Emma,27
+Sam,40
+Chris,31
+Sophia,28
+Michael,45
